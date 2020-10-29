@@ -1,0 +1,10 @@
+
+.carousel-inner{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    width: 60%;
+    height: 30rem;
+    margin-left: 20%;
+    box-shadow: 1px 1px 1px #836FFF;
+}

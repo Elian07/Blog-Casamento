@@ -1,0 +1,14 @@
+#card{
+    
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    align-content: space-between;
+    margin-left: 10rem;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 18rem 18rem 18rem;
+    grid-column-gap: 3rem;
+
+}

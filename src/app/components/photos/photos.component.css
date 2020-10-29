@@ -1,0 +1,76 @@
+.fotos{
+    width: 80%;
+    margin: 4rem;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    
+}
+
+#photo1{
+    width: 25rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+}
+
+#photo2{
+    width: 20rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo3{
+    width: 18rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo4{
+    width: 15rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo5{
+    width: 16rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo6{
+    width: 25rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo7{
+    width: 20rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo8{
+    width: 25rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo9{
+    width: 25rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo10{
+    width: 20rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}
+#photo11{
+    width: 20rem;
+    margin: 2rem;
+    box-shadow: 3px 3px 3px #836FFF;
+
+}

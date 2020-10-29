@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Honey";
+    src: local("Honey"), url('/assets/font/honey.otf') format("truetype");
+}
+
+.home-nav{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 8rem;
+    background-color:#fff;
+    box-shadow: 2px 2px 2px #836FFF	;
+}
+
+.logo{
+    font-size: 4rem;
+    font-family: "Honey";
+    line-height: 1.2;
+    text-align: center;
+    color: #836FFF;
+    margin: 0 auto;
+}
+.title{
+    font-size: 3rem;
+    font-family: "Honey";
+    line-height: 1.2;
+    text-align: center;
+    color: #808080;
+}
+
+p > strong{
+    font-size: 4rem;
+}
+p{
+    font-size: 2rem;
+}
